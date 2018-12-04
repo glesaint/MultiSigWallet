@@ -128,7 +128,7 @@ var txDefault = {
       name: "Local node"
     },
     {
-      url : "http://localhost:8145",
+      url : "http://172.17.0.1:8145",
       name: "Local docker"
     }
   ],
