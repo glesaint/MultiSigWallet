@@ -126,6 +126,10 @@ var txDefault = {
     {
       url : "http://localhost:8545",
       name: "Local node"
+    },
+    {
+      url : "http://localhost:8145",
+      name: "Local docker"
     }
   ],
   walletFactoryAddresses: {
